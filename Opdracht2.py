@@ -6,3 +6,4 @@ for row in reader:
     print (row[0], row[3])
 f.close()
 
+#WIJZIGING
